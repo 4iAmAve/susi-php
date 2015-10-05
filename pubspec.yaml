@@ -1,0 +1,8 @@
+name: 'susi'
+version: 0.1.1
+description: A SUSI client written in PHP.
+author: Ave <me@aves.site>
+homepage: https://github.com/thefirstave/susi-php
+dependencies:
+  uuid: ">=0.5.0 <0.6.0"
+

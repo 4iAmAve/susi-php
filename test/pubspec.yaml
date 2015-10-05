@@ -1,0 +1,6 @@
+name: 'susi-dart-test'
+version: 0.1.0
+description: A SUSI client written in dart.
+dependencies:
+  susi: 0.1.1
+  args: 0.13.2
